@@ -1,0 +1,421 @@
+,komentar,sentimen
+0,"['baik', 'positif', 'negatif', 'ptnbh', 'terang', 'giring', 'opini', 'ptnbh', 'minus', 'tidak', 'ptn', 'ptnbh', 'ptnbh', 'negatif', 'baik', 'temen', 'temen', 'bijak', 'jumpa', 'pers', 'jelas', 'ptnbh', 'ketimbang', 'nilai', 'duka', 'status', 'kasihan', 'bingung', 'dampak', 'persuasi', 'paham', 'buat']",Negatif
+1,"['ukt', 'mahal']",Negatif
+2,['bagus'],Positif
+3,"['nahkan', 'bagus', 'diskusi']",Positif
+4,"['ub', 'bagus']",Positif
+5,"['dampak', 'positif', 'bagus', 'pasti']",Positif
+6,"['tidak', 'coba', 'badan', 'ptnbh', 'murah', 'ukt', 'ukt', 'status', 'pengelolahan', 'uang', 'senang', 'status', 'bebas', 'baik']",Positif
+7,"['pikir', 'postingan', 'fakta', 'opini']",Positif
+8,"['studi', 'literatur', 'akademis', 'jurnal', 'ilmiah', 'tesis', 'disertasi', 'indikasi', 'ptnbh', 'cenderung', 'rugi', 'mahasiswa', 'timbul', 'agam', 'polemik', 'sayang', 'diskusi', 'forum', 'studi', 'minim', 'mahasiswa', 'edukasi', 'konsep', 'ptnbh']",Negatif
+9,"['giring', 'takut', 'ukt', 'naik', 'mahal', 'ukt', 'mahasiswa', 'naik', 'naik', 'mahasiswa']",Negatif
+10,"['pengaruh', 'terima', 'niat', 'buruk']",Negatif
+11,"['tidak', 'alumni', 'tidak', 'tuju', 'ptnbh', 'jatuh', 'timbul', 'buruk', 'tidak', 'ujung']",Negatif
+12,"['moga', 'tidak', 'simpang', 'berat', 'mahasiswa']",Negatif
+13,"['rapat', 'baris', 'ayo', 'tolak', 'ptnbh']",Negatif
+14,"['harap', 'mahasiswa', 'dampak', 'buruk', 'ptnbh', 'tidak', 'cenderung', 'berat', 'dampak', 'jujur', 'mahasiswa', 'kurang', 'paham', 'ptnbh', 'salah', 'tulis', 'mohon', 'maaf', 'ajak', 'mahasiswa', 'paham', 'ajar', 'dalam', 'putus', 'argumen']",Negatif
+15,"['tidak', 'kalah', 'saing', 'ugm', 'tidak', 'dijadiin', 'ptnbh']",Negatif
+16,"['bagus', 'tahan']",Positif
+17,"['ukt', 'naik']",Negatif
+18,"['tidak', 'asumsi', 'argumen', 'negatif']",Negatif
+19,"['bagus', 'ub']",Positif
+20,"['samar', 'liat', 'buruk']",Negatif
+21,"['ukt', 'naik']",Negatif
+22,"['bahaya', 'ub', 'ptnbh']",Negatif
+23,"['dampak', 'ukt', 'naik']",Negatif
+24,"['ptnbh', 'kemarin', 'sembrono']",Negatif
+25,"['tidak', 'tidak', 'subsidi', 'pajak']",Negatif
+26,"['sulit', 'kuliah', 'ub']",Negatif
+27,"['ub', 'keren', 'semangat', 'maju']",Positif
+28,"['seru', 'baca', 'kolom', 'ub', 'bagus']",Positif
+29,"['ub', 'status', 'ptnbh', 'positif']",Positif
+30,"['tahu', 'perihal', 'ptnbh', 'timbul', 'dampak', 'naik', 'ukt']",Negatif
+31,"['terima', 'tantang', 'banget', 'em', 'diskusi', 'dampak', 'positif', 'khawatir', 'mahasiswa']",Positif
+32,"['ptnbh', 'lancar', 'korupsi']",Negatif
+33,"['selamat', 'ub', 'ptnbh']",Positif
+34,"['bahas', 'dampak', 'baik']",Positif
+35,"['bukti', 'kuliah', 'formalitas', 'emang', 'ajang', 'komersialisasi', 'ukt', 'tidak', 'gantung', 'status', 'ptn', 'ptnbh', 'kelola', 'baik', 'subsidi']",Positif
+36,"['bagus', 'tidak', 'dukung']",Positif
+37,"['ub', 'mantap']",Positif
+38,"['tidak', 'longgar', 'potensi', 'naik', 'turun', 'biaya', 'kuliah', 'atur']",Positif
+39,"['semester', 'birokrasi', 'buruk']",Negatif
+40,['sedih'],Negatif
+41,"['ptnbh', 'uang', 'susah', 'ptnbh']",Negatif
+42,"['jelasin', 'dampak', 'positif', 'depan']",Positif
+43,"['mental', 'mahasiswa', 'turun', 'ukt', 'naik']",Negatif
+44,"['cerah', 'obyektif', 'dampak', 'positif', 'keluar', 'atur']",Positif
+45,"['tunggu', 'kaji']",Positif
+46,"['bagus', 'baik', 'produktif']",Positif
+47,"['mental', 'mahasiswa', 'turun']",Negatif
+48,"['bagus', 'ub']",Positif
+49,"['naik', 'ukt', 'tengah', 'pandemi']",Negatif
+50,"['dampak', 'positif', 'asumsi', 'status', 'ptn', 'bh', 'ui', 'ugm', 'itb', 'unair', 'saing', 'ptnbh', 'nolak', 'aneh', 'kelas', 'mahasiswa', 'mahasiswa', 'pikir', 'dangkal', 'koar', 'koar', 'serta', 'analisa', 'pribadi', 'ptnbh', 'dampak', 'positif', 'timbul']",Positif
+51,"['situasi', 'ub', 'baik']",Positif
+52,"['naik', 'ukt']",Negatif
+53,"['siksa', 'naik', 'ukt']",Negatif
+54,"['redaksi', 'konotasi', 'tidak', 'giring', 'pikir', 'ujung', 'asumsi', 'bukti', 'sampai', 'serta', 'fakta', 'valid', 'serta', 'link', 'atur', 'kaji', 'dampak', 'positif', 'negatif', 'timbul', 'tuju', 'kalayak', 'paham', 'mantik', 'timbul', 'tanda', 'moga', 'mahasiswa', 'teladan', 'percaya', 'mahasiswa']",Positif
+55,"['next', 'post', 'jelas', 'detail', 'ptnbh']",Positif
+56,"['maju', 'benah', 'ub', 'lab', 'riset', 'arah', 'teliti', 'produk', 'paten', 'dongkrak', 'nilai', 'teliti', 'riset', 'mudah', 'paten', 'ekonomis']",Positif
+57,"['giring', 'opini']",Negatif
+58,"['kenal', 'diskusi', 'mahasiswa', 'paham']",Positif
+59,"['butuh', 'edukasi', 'provokasi']",Positif
+60,"['emang', 'dukacita', 'jelasin']",Negatif
+61,"['ub', 'ptnbh', 'korupsi', 'rektor', 'korupsi']",Negatif
+62,"['semangat', 'ub', 'naik', 'kelas']",Positif
+63,"['giring', 'opini']",Negatif
+64,"['giring', 'opini', 'bobot', 'perihal', 'target', 'postingan', 'dampak', 'positif', 'negatif', 'ub', 'nilai', 'baik', 'buruk', 'nilai', 'negatif']",Negatif
+65,"['giring', 'opini', 'tugas', 'tengah', 'tampil', 'negatif', 'positif', 'agar', 'audiens', 'bangun', 'persepsi']",Negatif
+66,"['saran', 'edukasi', 'mahasiswa', 'depan', 'tolong', 'serta', 'dampak', 'status', 'brawijaya', 'tidak', 'mahasiswa', 'paham', 'ptnbh', 'terima', 'kasih']",Positif
+67,"['dampak', 'status', 'ptnbh']",Positif
+68,"['kasih', 'dampak', 'objektif']",Positif
+69,"['ub', 'ptnbh', 'tunggu']",Negatif
+70,"['tidak', 'naik', 'ukt']",Negatif
+71,"['allhamdulillah', 'brawijaya', 'ptnbh', 'seru']",Positif
+72,"['bagus', 'ub', 'ptnbh']",Positif
+73,"['diskusi', 'coba', 'ayo', 'bahas', 'positif']",Positif
+74,"['dampak', 'lucu', 'dampak', 'positif', 'tidak']",Positif
+75,"['korupsi', 'lebar']",Negatif
+76,"['ulah', 'kemarin', 'kasihan', 'banyak', 'pikir', 'dilakuin', 'dilakuin', 'mahasiswa', 'bela', 'ketidakadilan']",Negatif
+77,"['ub', 'ptnbh', 'mandiri', 'banget', 'atur', 'uang', 'leluasa', 'atur', 'otonomi', 'negatif', 'naik', 'ukt', 'buka', 'tutup', 'prodi', 'moga', 'sisi', 'positif']",Positif
+78,"['nilai', 'sisi', 'moga', 'positif', 'status', 'moga', 'inovasi', 'mandiri', 'swasta', 'baik']",Positif
+79,"['moga', 'bagus', 'ub', 'ptnbh']",Positif
+80,"['giring', 'opini', 'simpul', 'serta', 'premis', 'dipertanggungjawabkan', 'validitas', 'mahasiswa', 'pikir', 'ngawur', 'kolom', 'dampak', 'coba', 'tidak', 'struktur', 'main', 'asumsi', 'statemen', 'ptnbh', 'dukacita']",Positif
+81,"['bukti', 'mahasiswa', 'kuliah', 'formalitas', 'emang', 'ajang', 'komersialisasi', 'ukt', 'tidak', 'gantung', 'status', 'ptn', 'ptnbh', 'kelola', 'baik', 'subsidi']",Positif
+82,"['mahasiswa', 'siksa', 'naik', 'ukt']",Negatif
+83,"['dukung', 'ub', 'bagus']",Positif
+84,"['ayo', 'suara', 'dapat']",Positif
+85,"['dampak', 'status', 'ptnbh']",Positif
+86,"['ahirnya', 'vokasi', 'fakultas']",Positif
+87,"['ptn', 'mandiri', 'tang', 'ub', 'ukt', 'naik', 'serba', 'mandiri', 'uang', 'mandiri']",Positif
+88,"['ub', 'mental', 'turun']",Negatif
+89,"['bukti', 'malas', 'kuliah', 'formalitas', 'emang', 'ukt', 'naik', 'ajang', 'komersialisasi', 'ukt', 'tidak', 'gantung', 'status', 'ptn', 'ptnbh', 'kelola', 'baik', 'subsidi']",Positif
+90,"['sembrono', 'ukt', 'naik', 'susah']",Negatif
+91,"['nilai', 'sisi', 'moga', 'positif', 'status', 'moga', 'inovasi', 'mandiri', 'swasta', 'baik']",Positif
+92,"['diskusi', 'ub', 'bagus']",Positif
+93,['bagus'],Positif
+94,['korupsi'],Negatif
+95,"['tidak', 'koordinasi', 'konten']",Negatif
+96,"['tidak', 'asumsi', 'tidak', 'argumen', 'baik', 'buruk']",Negatif
+97,"['giring', 'opini']",Negatif
+98,"['pikir', 'postingan', 'fakta', 'opini', 'buruk', 'em', 'ub']",Negatif
+99,"['tentang', 'keras']",Negatif
+100,"['tentang', 'ptnbh']",Negatif
+101,"['tolong', 'koreksi', 'tolong', 'tambah', 'kurang', 'pendek', 'ptnbh', 'otonom', 'urus', 'uang', 'pegawai', 'urus', 'mandiri', 'dibandingin', 'ptn', 'blu', 'logis', 'tidak', 'bebas']",Positif
+102,"['lemah', 'ngurangi', 'subsidi', 'ptn', 'poin', 'otonom', 'ptn', 'leluasa', 'tambah', 'swasta', 'jalan', 'aktivitas', 'infrastruktur']",Negatif
+103,"['bagus', 'mandiri']",Positif
+104,"['doa', 'moga', 'sisi', 'positif', 'buang', 'sisi', 'negatif']",Positif
+105,"['celah', 'korupsi']",Negatif
+106,"['biar', 'moga', 'tidak', 'simpang']",Negatif
+107,"['ub', 'ptnbh', 'korupsi', 'rektor', 'korupsi']",Negatif
+108,"['ptnbh', 'nyaman', 'korupsi']",Negatif
+109,"['implikasi', 'ptnbh', 'asumsi']",Positif
+110,"['tolong', 'paham', 'mahasiswa', 'giring', 'opini', 'bedah', 'general', 'substansi', 'bijak']",Positif
+111,"['rendah', 'demokrasi']",Negatif
+112,['bagus'],Positif
+113,"['tuju', 'mantap', 'ptnbh']",Positif
+114,['aman'],Positif
+115,"['bagus', 'semangat']",Positif
+116,"['tidak', 'dukung', 'ub', 'ptnbh']",Negatif
+117,"['semangat', 'ub']",Positif
+118,['semangat'],Positif
+119,['mantap'],Positif
+120,['hebat'],Positif
+121,"['ayo', 'semangat']",Positif
+122,"['ig', 'bem', 'mipa', 'unggah', 'semangat', 'ub']",Positif
+123,"['tulis', 'profokatif', 'halus']",Negatif
+124,"['apresiasi', 'lambat']",Positif
+125,"['bahas', 'apresiasi', 'ub']",Positif
+126,"['lingkup', 'em', 'cerdas', 'ub']",Negatif
+127,"['moga', 'tidak', 'doa', 'dukung', 'swasta']",Positif
+128,"['bagus', 'ub', 'baik']",Positif
+129,['bagus'],Positif
+130,"['mantap', 'ub', 'bagus']",Positif
+131,['mantap'],Positif
+132,"['ancam', 'tantang', 'uji', 'kesiap', 'brawijaya']",Negatif
+133,"['efek', 'ptnbh', 'ub', 'cl', 'kopi', 'tawar', 'naik']",Negatif
+134,"['sayang', 'banget', 'ptnbh', 'sayang', 'tidak']",Negatif
+135,"['adu', 'argumen', 'buka', 'diskusi', 'minimal', 'via']",Positif
+136,"['mahasiswa', 'dihapusin', 'argumen', 'sosial', 'gembok', 'sarana', 'komunikasi', 'arah']",Negatif
+137,"['banget', 'tanya', 'nada', 'tidak', 'dengar', 'dapat', 'masyarakat']",Negatif
+138,"['moto', 'ajar', 'merdeka', 'diskusi', 'bijak', 'tidak', 'acak', 'acak']",Negatif
+139,"['ptnbh', 'berdikari', 'komersialisasi']",Negatif
+140,"['saing', 'ptn', 'ptnbh', 'bijak', 'gantung', 'dikti', 'kontra', 'tidak', 'ub', 'status', 'ukt', 'naik']",Negatif
+141,"['bingung', 'ptnbh', 'ukt']",Negatif
+142,"['status', 'ptnbh', 'cepat', 'ub', 'kelas']",Positif
+143,"['tolak', 'korupsi']",Negatif
+144,"['aneh', 'ub', 'niat', 'saing', 'ui', 'ugm', 'itb', 'unair', 'ptnbh', 'selesai', 'ptnbh', 'pengaruh', 'riset']",Positif
+145,"['saing', 'berani', 'bagus']",Positif
+146,"['kontra', 'jelek']",Negatif
+147,"['paham', 'ptnbh', 'jelek']",Negatif
+148,"['tolak', 'lupa', 'mahasiswa', 'ub']",Negatif
+149,"['ptnbh', 'korupsi', 'serius', 'nanya', 'jelek']",Negatif
+150,"['kontra', 'siksa', 'mahasiswa']",Negatif
+151,['korupsi'],Negatif
+152,"['bantah', 'keras', 'jelek']",Negatif
+153,"['corona', 'tidak', 'demo', 'tidak']",Negatif
+154,"['tidak', 'bingung', 'kayak', 'jelek']",Negatif
+155,"['ukt', 'naik', 'kembang', 'modal', 'ukt', 'mahasiswa']",Negatif
+156,"['kolom', 'ig', 'ub', 'kontra', 'ptnbh']",Negatif
+157,"['masalah', 'ptnbh', 'kontra']",Negatif
+158,"['nama', 'bijak', 'pro', 'mesti', 'buat', 'bijak', 'jangka', 'panjang']",Positif
+159,"['jangka', 'mahasiswa', 'tolak', 'demo']",Negatif
+160,"['tidak', 'ub', 'angkat', 'ptnbh', 'kapitalisme', 'jenis', 'tidak', 'erti']",Negatif
+161,"['korupsi', 'tidak', 'analisis', 'hasil', 'skeptis']",Negatif
+162,"['tuju', 'banget', 'bijak', 'pro', 'bijak', 'ptnbh', 'jangka', 'panjang', 'bagus']",Positif
+163,"['ptnbh', 'kualitas', 'ub', 'bukti', 'status', 'bagus']",Positif
+164,"['ptn', 'ptnbh', 'tidak', 'ptn', 'turun', 'kualitas', 'bagus', 'bebas', 'putus', 'kembang', 'kampus', 'tahan', 'birokrasi', 'dikti']",Positif
+165,"['ub', 'ptnbh', 'ukt', 'mahal', 'mahal']",Negatif
+166,"['bagus', 'ub', 'ptnbh']",Positif
+167,"['ptnbh', 'ub', 'naik', 'kelas']",Positif
+168,"['ub', 'biasa', 'banget', 'ptnbh', 'mahal', 'ukt', 'naik']",Negatif
+169,"['ub', 'ptnbh', 'ukt', 'naik']",Negatif
+170,"['ptnbh', 'general', 'bagus', 'banget', 'maju', 'pasti', 'bijak', 'cipta', 'maslahat']",Positif
+171,"['khawatir', 'poin', 'poin', 'bijak', 'ptnbh', 'rugi', 'mahasiswa']",Negatif
+172,"['draft', 'atur', 'aman']",Positif
+173,"['khawatir', 'depan', 'ukt', 'naik']",Negatif
+174,"['butuh', 'fokus', 'awal', 'bijak', 'turun', 'ptnbh', 'implementasi', 'tentang', 'pancasila', 'kritisi']",Positif
+175,"['komersialisasi', 'naik', 'ukt', 'pikir', 'komersialisasi', 'buat', 'tentang', 'sadar', 'wajar', 'makhluk', 'poin', 'fokus', 'batas']",Negatif
+176,"['mahasiswa', 'idealisme', 'batas', 'implementasi', 'bijak', 'timbul', 'rugi']",Negatif
+177,"['bijak', 'maslahat', 'senjata', 'mang', 'raup', 'besar']",Negatif
+178,"['mahasiswa', 'angkat', 'edukasi', 'mahasiswa', 'ub', 'perhati', 'telah', 'korupsi']",Negatif
+179,"['ub', 'ptnbh', 'maksud', 'ukt', 'mahal', 'mahal']",Negatif
+180,"['ub', 'ptnbh', 'ukt', 'mahal']",Negatif
+181,"['ub', 'mahal', 'ptnbh', 'mahal']",Negatif
+182,"['ub', 'ptnbh', 'ukt', 'mahal']",Negatif
+183,"['bagus', 'ub', 'ptnbh']",Positif
+184,"['apresiasi', 'civitas', 'ub', 'bagus', 'ub', 'bagus']",Positif
+185,"['saing', 'ptn', 'status', 'unggul', 'ptnbh', 'ub']",Positif
+186,"['ptnbh', 'mahasiswa', 'bidikmisi', 'tidak', 'keluar', 'bantu']",Positif
+187,"['ub', 'blu', 'baik', 'ptnbh']",Positif
+188,"['putus', 'kerancang', 'ub', 'tidak', 'ptnbh', 'bagus', 'blu']",Positif
+189,"['semangat', 'ub', 'ayo', 'bagus', 'ptnbh']",Positif
+190,"['favorit', 'ub', 'bagus']",Positif
+191,"['ub', 'ptnbh', 'ukt', 'naik']",Negatif
+192,"['ukt', 'maba', 'ub', 'kapitalisme', 'ptnbh']",Negatif
+193,"['ptnbh', 'ub', 'kapitalisme', 'korupsi']",Negatif
+194,"['tolak', 'ptnbh']",Negatif
+195,"['tranparasi', 'ukt', 'naik']",Negatif
+196,"['ub', 'mahal']",Negatif
+197,"['tuju', 'ub', 'ptnbh']",Positif
+198,"['jelek', 'banget', 'ub', 'mahal', 'naik', 'ukt']",Negatif
+199,"['ptnbh', 'jelek']",Negatif
+200,"['ngomong', 'tidak', 'dengar']",Negatif
+201,"['niat', 'tranparasi', 'dana']",Negatif
+202,"['baik', 'ayo', 'ub', 'semangat']",Positif
+203,"['univ', 'tidak', 'tranparasi']",Negatif
+204,"['sampah', 'emang', 'susah', 'banget', 'terima']",Negatif
+205,"['mahasiswa', 'usaha', 'keras', 'demo', 'ub', 'ptnbh']",Negatif
+206,"['semangat', 'ub', 'univ']",Positif
+207,"['ptnbh', 'kurang', 'univ', 'bagus', 'ptnbh']",Positif
+208,"['bangga', 'sejahtera', 'ub']",Positif
+209,"['ukt', 'naik']",Negatif
+210,"['ukt', 'naik']",Negatif
+211,"['pikir', 'rektor', 'bibit', 'korupsi']",Negatif
+212,"['hasil', 'ub', 'ptnbh', 'bagus']",Positif
+213,"['bijak', 'pro', 'ub', 'bagus']",Positif
+214,"['tolak', 'ub', 'ptnbh']",Negatif
+215,"['ptnbh', 'ub', 'kembang', 'bagus']",Positif
+216,"['ub', 'inovasi', 'baik', 'ptnbh']",Positif
+217,"['ayo', 'ub', 'ptnbh', 'vokasi', 'fakultas']",Positif
+218,"['bagus', 'ub', 'ptnbh', 'ayo']",Positif
+219,"['ptnbh', 'mahasiswa', 'geram', 'ptnbh']",Negatif
+220,"['dosen', 'pns', 'ajar', 'kampus', 'ub', 'makmur', 'gaji', 'pokok', 'blu', 'ptnbh']",Positif
+221,"['komersialisasi', 'kian', 'cepat', 'ptnbh', 'buruk']",Negatif
+222,"['pasca', 'pemilwa', 'tidak', 'bicara', 'ptnbh', 'satu', 'tidak', 'bicara']",Negatif
+223,"['tidak', 'pikir', 'calon', 'berani', 'sikap', 'ptnbh', 'tidak', 'korupsi']",Negatif
+224,"['cengkraman', 'ptnbh', 'tidak', 'perhati', 'rancang', 'atur', 'ptnbh', 'siap', 'komersialisasi']",Negatif
+225,"['buruk', 'hubung', 'ptnbh', 'bahaya']",Negatif
+226,"['ptnbh', 'tentu', 'kualitas', 'bagus', 'ub', 'ajar', 'ramah', 'uang', 'ajar']",Positif
+227,"['ajar', 'keras', 'spesialis', 'inspirasi', 'dokter']",Positif
+228,"['ptnbh', 'jadi', 'mandiri']",Positif
+229,"['kuat', 'oligarki', 'ptnbh']",Negatif
+230,"['ub', 'oligarki', 'um', 'ptnbh']",Negatif
+231,"['mcd', 'bagus', 'ptnbh', 'mcd']",Positif
+232,"['ukt', 'naik', 'ptnbh', 'mahasiswa', 'rasa', 'ukt', 'naik', 'akreditasi', 'akal']",Negatif
+233,"['ptnbh', 'video', 'propaganda', 'kastrat']",Negatif
+234,"['bagus', 'banget', 'ub', 'ptnbh']",Positif
+235,"['kerja', 'skripsi', 'ukt', 'naik', 'ub', 'ptnbh']",Negatif
+236,"['ukt', 'naik']",Negatif
+237,"['bahas', 'ukt', 'naik']",Negatif
+238,"['naik', 'ukt', 'sedih', 'dengar']",Negatif
+239,"['miskin', 'mahasiswa', 'ukt', 'naik', 'miskin']",Negatif
+240,"['ukt', 'naik']",Negatif
+241,"['umum', 'ptnbh', 'tolak']",Negatif
+242,"['ub', 'ptnblu', 'lumayan', 'ukt', 'naik', 'ptnbh']",Negatif
+243,"['ribut', 'gagal']",Negatif
+244,"['awal', 'bagus', 'terimakasih', 'civitas', 'akademika', 'doa', 'dukung', 'brawijaya', 'ptnbh']",Positif
+245,"['tentang', 'mahasiswa', 'berani', 'ub', 'ptnbh', 'oligarki', 'bahaya']",Negatif
+246,"['ptnbh', 'komersialisasi', 'monetisasi', 'masif']",Negatif
+247,"['saing', 'ptn', 'ptnbh', 'bijak', 'gantung', 'dikti', 'kontra', 'tidak', 'ub', 'status', 'ukt', 'naik']",Negatif
+248,"['ub', 'ptnbh', 'tolong', 'selesai', 'buat', 'almet', 'komersialisasi']",Negatif
+249,"['moga', 'ptnbh', 'ukt', 'naik']",Negatif
+250,"['ptnku', 'ptnbh', 'inovasi', 'buka', 'tutup', 'jurus', 'tentu', 'kuota', 'snm', 'sbm', 'mandiri', 'tidak', 'ikut']",Positif
+251,"['univ', 'ptnbh', 'biaya', 'naik']",Negatif
+252,"['ptnbh', 'maksud', 'korupsi']",Negatif
+253,"['ptnbh', 'orientasi', 'korupsi']",Negatif
+254,"['rumit', 'ptnbh']",Negatif
+255,"['dosen', 'pns', 'ptnbh', 'bagus', 'sejahtera']",Positif
+256,"['situasi', 'pandemi', 'momentum', 'kesah', 'ptnbh', 'agenda', 'tahun', 'tolak', 'ptnbh', 'demo']",Negatif
+257,"['ukt', 'naik']",Negatif
+258,"['tunggu', 'ukt', 'naik', 'biar', 'renang', 'bunderan', 'ub']",Negatif
+259,"['tunggu', 'komersialisasi', 'ub']",Negatif
+260,"['guru', 'bimbing', 'haji', 'ukt', 'naik', 'haji']",Negatif
+261,"['sadar', 'tidak', 'status', 'otonomi', 'ptnbh', 'lepas', 'tanggung', 'status', 'otonomi', 'paksa', 'ptn', 'jebak', 'akademisi', 'dalam', 'nyata', 'birokratisme', 'oligarki']",Negatif
+262,"['ub', 'ptnbh', 'ukt', 'mahal', 'naik']",Negatif
+263,"['mahal', 'tambah', 'ptnbh', 'mahal']",Negatif
+264,"['lagipula', 'ub', 'hitung', 'telat', 'rubah', 'status', 'ptnbh', 'banding', 'ptn', 'tradisional', 'tinggal', 'rumit']",Negatif
+265,"['ptnbh', 'bingung', 'mahasiswa', 'geram', 'tolak']",Negatif
+266,"['tidak', 'ptnbh', 'mahal', 'banget', 'ptnbh', 'naik', 'ukt']",Negatif
+267,"['tekan', 'birokrasi', 'akreditasi', 'kurikulum', 'tuntut', 'tua', 'ptnbh', 'oligarki']",Negatif
+268,"['dirjen', 'diktiristek', 'ptnbh', 'kelas']",Positif
+269,"['kakak', 'depan', 'ub', 'ptnbh', 'ukt', 'naik']",Negatif
+270,"['ub', 'ptn', 'tidak', 'mahasiswa', 'geram', 'tolak', 'ptnbh']",Negatif
+271,"['ub', 'rencana', 'prodi', 'tidak', 'prodinya', 'ptnbh', 'bagus', 'prodi']",Positif
+272,"['aktivis', 'anti', 'ptnbh', 'maaf', 'gagal', 'rumit']",Negatif
+273,"['ptnbh', 'bagus']",Positif
+274,"['brawijaya', 'ub', 'inovasi', 'status', 'ptnbh', 'ptnbh', 'brawijaya']",Positif
+275,"['brawijaya', 'ub', 'inovasi', 'sandang', 'status', 'ptnbh', 'ub', 'ptnbh', 'atur', 'ptnbh', 'brawijaya']",Positif
+276,"['ptnbh', 'bahaya', 'ub', 'ptnbh']",Negatif
+277,"['ub', 'ptnbh', 'baik', 'mahal']",Negatif
+278,"['ub', 'ptnbh', 'tidak', 'tranparasi', 'mahasiswa', 'geram']",Negatif
+279,"['spp', 'ukt', 'masalah', 'besar', 'spp', 'ukt', 'tentu', 'harap', 'ub', 'ptnbh', 'ukt', 'tidak', 'naik']",Negatif
+280,"['ub', 'birokrasi', 'rumit', 'pakai', 'pakai', 'ptnbh']",Negatif
+281,"['ptnbh', 'isu', 'tolak', 'keras']",Negatif
+282,"['paham', 'ptnbh', 'bahaya', 'anti', 'ptnbh']",Negatif
+283,"['ptnbh', 'monetisasi', 'oligarki']",Negatif
+284,"['brawijaya', 'malang', 'bagus', 'sejahtera']",Positif
+285,"['ub', 'bebas', 'kelola', 'uang', 'tetap', 'studi', 'digital', 'milenial']",Positif
+286,"['ub', 'sandang', 'status', 'ptnbh']",Positif
+287,"['tolong', 'papar', 'objektif', 'bagus', 'ptnbh', 'paham', 'substansi', 'giring', 'opini']",Positif
+288,"['tidak', 'paham', 'ptnbh', 'prasangka', 'baca', 'atur', 'silah', 'buka', 'forum', 'diskusi', 'sejahtera']",Positif
+289,"['telusur', 'rencana', 'kotor', 'urus', 'bijak', 'omnibus', 'dadak', 'banget', 'ruu', 'cipta', 'sah', 'lengah', 'tidak', 'ptnbh', 'buruk', 'banget']",Negatif
+290,"['ironi', 'ptnbh', 'sah', 'mahasiswa', 'tolak', 'tidak', 'lirik', 'ptnbh', 'gagal', 'tidak', 'beda', 'blu', 'sm', 'bh', 'erti', 'geram', 'mahasiswa', 'semester', 'semester', 'tua', 'tidak', 'lulus']",Negatif
+291,"['mahal', 'tambah', 'ptnbh', 'mahal']",Negatif
+292,"['em', 'ub', 'ptnbh', 'kurang', 'lebih', 'geram', 'duka', 'cita', 'tolak', 'ptnbh']",Negatif
+293,"['buruk', 'ub', 'resmi', 'ptnbh']",Negatif
+294,"['sedih', 'birokrasi']",Negatif
+295,"['korupsi', 'birokrasi', 'rumit']",Negatif
+296,"['ub', 'inovasi', 'ptnbh', 'baik', 'tanggap']",Positif
+297,"['ptnbh', 'ukt', 'naik']",Negatif
+298,"['ptnbh', 'ganti', 'gagal', 'tinggal']",Negatif
+299,"['ptnbh', 'biaya', 'mahal']",Negatif
+300,"['dampak', 'naik', 'ukt']",Negatif
+301,"['ukt', 'naik', 'ptnbh']",Negatif
+302,"['selamat', 'ptnbh', 'brawijaya', 'terima', 'kasih', 'inovasi']",Positif
+303,"['moga', 'kualitas', 'bagus', 'retas', 'mitos', 'ptnbh', 'ptn', 'bhmn', 'jadi', 'jasa', 'dukung', 'kurang']",Positif
+304,"['ptnbh', 'ladang', 'korupsi']",Negatif
+305,"['kastrat', 'bem', 'fisip', 'ub', 'ngadain', 'diskusi', 'publik', 'angkat', 'ptnbh', 'brawijaya', 'bagus', 'pasti', 'hadir', 'materi', 'kompeten', 'inovasi', 'bidang', 'kawal', 'buru', 'daftar']",Positif
+306,"['ub', 'inovasi', 'ptnbh']",Positif
+307,"['sah', 'ub', 'inovasi', 'ptnbh']",Positif
+308,"['bagus', 'ub', 'ptnbh']",Positif
+309,"['atur', 'ub', 'rumit', 'ganti', 'status', 'ptnbh']",Negatif
+310,"['ub', 'ptnbh', 'gagal', 'tinggal']",Negatif
+311,"['dorong', 'ptnbh', 'brin', 'megawati', 'oligarki', 'propaganda']",Negatif
+312,"['coba', 'ptnbh', 'merdeka', 'inovasi', 'bagus', 'situ', 'opsi', 'lulus', 'skripsi', 'selamat', 'coba']",Positif
+313,"['lomba', 'lomba', 'ptnbh', 'ub', 'aneh', 'monetisasi']",Negatif
+314,"['nama', 'panitia', 'tipu', 'birokrasi', 'aman', 'urus', 'ukt', 'tranparasi', 'sulit', 'ub', 'ptnbh', 'blu']",Negatif
+315,"['bicara', 'peringka', 'muak', 'jadi', 'ladang', 'bisnis', 'monetisasi', 'hapus', 'ptnbh', 'ptnbh', 'oligarki']",Negatif
+316,"['ptnbh', 'agar', 'bilang', 'ukt', 'ptn', 'murah', 'ukt', 'naik', 'mahal', 'ptn', 'pts']",Negatif
+317,"['mandiri', 'ub', 'sempit', 'sulit', 'kuota', 'snmptn', 'sbmptn', 'ptnbh']",Negatif
+318,"['sisi', 'syukur', 'layan', 'buruk', 'rumit']",Negatif
+319,"['ptnbh', 'naik', 'ukt']",Negatif
+320,"['ptnbh', 'dosen', 'minimal', 'jurnal', 'inovasi']",Positif
+321,"['edisi', 'angkat', 'bagus', 'baca', 'edisi', 'liput', 'ptnbh', 'gelitik', 'inovasi']",Positif
+322,"['ptnbh', 'fokus', 'tidak', 'rambat', 'monetisasi', 'hubung', 'korupsi']",Negatif
+323,"['entitas', 'bayar', 'dosen', 'ptnbh', 'butuh', 'inovasi']",Positif
+324,"['ptnbh', 'naik', 'bem', 'geram', 'tolak', 'ptnbh', 'aksi', 'usaha', 'realistis', 'bem', 'tidak', 'goyang', 'aksi', 'kotor', 'rektorat']",Negatif
+325,"['rasa', 'gagap', 'ub', 'alih', 'status', 'ptnbh', 'struktur', 'ganti', 'birokrasi', 'rumit', 'butuh', 'proyek', 'dana', 'ukt', 'mahasiswa', 'target', 'harga', 'kejar', 'nihil', 'substansi', 'minim', 'manfaat', 'mahasiswa']",Negatif
+326,"['obrol', 'bahas', 'ptnbh', 'sepi', 'tidak', 'nahu', 'ptnbh']",Negatif
+327,"['proyek', 'ptnbh']",Negatif
+328,"['faktor', 'tentu', 'calon', 'mahasiswa', 'mampu', 'akademik', 'nonakademik', 'calon', 'mahasiswa', 'guru', 'tuju', 'calon', 'mahasiswa', 'swasta', 'satker', 'blu', 'ptnbh', 'pilih', 'calon', 'mahasiswa']",Positif
+329,"['biaya', 'tagih', 'spp', 'naik', 'lumayan', 'pandemi', 'kelas', 'ptnbh', 'akal']",Negatif
+330,"['tua', 'tidak', 'pasal', 'ayat', 'ptnbh', 'wajib', 'biaya', 'mahasiswa', 'kurang']",Negatif
+331,"['rusak', 'baik', 'dalam', 'rata', 'atur', 'tri', 'pilih', 'rektor', 'rektor', 'pilih', 'dekan', 'liberalisasi', 'blu', 'ptnbh']",Negatif
+332,"['sadar', 'ub', 'korupsi', 'miskin', 'ptnbh', 'tidak']",Negatif
+333,"['ptnbh', 'tidak', 'formasi', 'buruk']",Negatif
+334,"['status', 'ub', 'ptnbh', 'sulit', 'mahasiswa', 'masalah', 'masalah', 'baik', 'birokrasi', 'monetisasi', 'jadi', 'mahasiswa', 'komoditas']",Negatif
+335,"['ptnbh', 'mandiri', 'atur', 'tangga', 'gaji', 'naik', 'kerja', 'uang', 'kampus', 'korupsi', 'tidak', 'faedah', 'blu', 'rasa', 'sebab', 'ketidakmampuan', 'kerja', 'pegawai', 'tolak', 'tranparasi']",Negatif
+336,"['ptnbh', 'sengsara', 'mahasiswa', 'sulit', 'mahal']",Negatif
+337,"['tidak', 'ukt', 'naik', 'insentif', 'naik', 'naik', 'ptnbh']",Negatif
+338,"['senang', 'status', 'ptnbh', 'kancah', 'inovasi', 'bagus']",Positif
+339,"['ub', 'ptnbh', 'birokrasi', 'lambat', 'rumit', 'sosialiasi', 'tinggal']",Negatif
+340,"['ptnbh', 'badan', 'bebas', 'sejahtera', 'inovasi', 'tentu']",Positif
+341,"['ptnbh', 'ub', 'bagus']",Positif
+342,"['ptnbh', 'jajar', 'puluh', 'bagus']",Positif
+343,"['kejut', 'besar', 'ukt', 'naik', 'ptnbh', 'mahasiswa', 'undip', 'tidak', 'relevan']",Negatif
+344,"['ptnbh', 'seram', 'ukt', 'mahal']",Negatif
+345,"['ptnbh', 'abai', 'tinggal']",Negatif
+346,"['ub', 'ganti', 'status', 'ptnbh', 'bangga', 'ub', 'ptnbh']",Positif
+347,"['cpns', 'ptnbh', 'sejahtera', 'ptnbh']",Positif
+348,"['blu', 'tidak', 'rm', 'rupiah', 'murni', 'ptnbh', 'inovasi']",Positif
+349,"['ptnbh', 'tidak', 'jatah', 'apbn', 'ptn', 'bh', 'tutup', 'biaya', 'ptn', 'wewenang', 'inovasi', 'diri']",Positif
+350,"['ptnbh', 'sejahtera', 'civitas', 'atur', 'uang', 'otonomi']",Positif
+351,"['ptn', 'ptnbh', 'sejahtera', 'prodi', 'gantung', 'prodi']",Positif
+352,"['sedia', 'sponsor', 'tutup', 'biaya', 'operasional', 'nama', 'subsidi', 'silang', 'wajar', 'mandiri', 'inovasi', 'ub', 'status', 'ptnbh', 'tidak', 'subsidi', 'ganti', 'status', 'mejadi', 'ptnbh']",Positif
+353,"['heran', 'ptn', 'ganti', 'status', 'mnjadi', 'ptnbh', 'gencar', 'monetisasi']",Negatif
+354,"['kampus', 'ptnbh', 'propaganda', 'bahaya']",Negatif
+355,"['bicara', 'ptnbh', 'sulit', 'bicara', 'manfaat', 'ptnbh', 'mahasiswa', 'ukt', 'naik', 'ptnbh']",Negatif
+356,"['ptnbh', 'buruk', 'ptn', 'utama', 'ptnbh', 'mandiri', 'terima', 'mahal', 'ukt']",Negatif
+357,"['ptnbh', 'jelek']",Negatif
+358,"['ganti', 'status', 'ptnbh', 'tidak', 'tranparasi', 'mahasiswa', 'geram']",Negatif
+359,"['biaya', 'ukt', 'predikat', 'ptnbh', 'naik']",Negatif
+360,"['inovasi', 'juang', 'status', 'ptnbh', 'uang', 'tidak', 'gantung']",Positif
+361,"['kadang', 'pikir', 'ptnbh', 'inovasi', 'contoh', 'gabung', 'swasta', 'coba', 'dalam']",Positif
+362,"['ptn', 'saing', 'unpad', 'status', 'unggul', 'status', 'ptnbh', 'ub']",Positif
+363,"['kampus', 'ganti', 'status', 'ptnbh', 'mari', 'tunggu', 'pikir', 'buruk', 'monetisasi', 'korupsi', 'bukti']",Negatif
+364,"['ptnbh', 'ub', 'inovasi', 'bagus']",Positif
+365,"['ptnbh', 'sulit', 'susah']",Negatif
+366,"['dirjen', 'dikti', 'biaya', 'ukt', 'tidak', 'naik']",Negatif
+367,"['tidak', 'kenal', 'status', 'status', 'ptnbh', 'pikir', 'apbn', 'subsidi', 'anggar', 'uk', 'naik', 'mahassiwa', 'gaji', 'rumit']",Negatif
+368,"['ptnbh', 'inovasi', 'bagus']",Positif
+369,"['bagus', 'patut', 'tahu', 'ptnbh', 'beasiswa', 'pascasarjana']",Positif
+370,"['ptn', 'ptnbh', 'kemendikbudariistek', 'silah', 'inovasi', 'bagus', 'sejahtera']",Positif
+371,"['ptnbh', 'saing', 'ptn', 'ptn', 'bagus']",Positif
+372,"['ptnbh', 'bahaya', 'perlahan', 'lepas', 'tanggung', 'jamin', 'warga']",Negatif
+373,"['dorong', 'sosialisasi', 'masif', 'ptnbh', 'tranparasi', 'wacana', 'usang']",Negatif
+374,"['ptnbh', 'penuh', 'kaya', 'ukt', 'mahal']",Negatif
+375,"['ptnbh', 'muda', 'saing']",Positif
+376,"['mahasiswa', 'derita', 'ptnbh', 'dosen', 'didik', 'sulit', 'gaji']",Negatif
+377,"['ukt', 'mahal', 'ub', 'ganti', 'status', 'ptnbh']",Negatif
+378,"['ganti', 'status', 'ptnbh', 'sulit', 'tranparasi', 'baru']",Negatif
+379,"['tuju', 'biaya', 'malang', 'ukt', 'mahal', 'status', 'ptnbh', 'naik']",Negatif
+380,"['mahasiswa', 'kampus', 'ganti', 'baik', 'banget', 'ptnbh', 'univ', 'sampah', 'jelek']",Negatif
+381,"['tahu', 'dosen', 'ptnbh', 'inovasi', 'jurnal']",Positif
+382,"['ptnbh', 'ptn', 'butuh', 'ukt', 'monetisasi', 'tidak', 'tranparasi']",Negatif
+383,"['ganti', 'ptnbh', 'baik', 'cepat', 'cepat', 'lulus', 'kuliah', 'ukt', 'naik', 'mahal']",Negatif
+384,"['ganti', 'status', 'ptnbh', 'korupsi', 'propaganda', 'oligarki', 'buruk']",Negatif
+385,"['ptnbh', 'kait', 'pajak', 'hasil', 'ukt', 'naik', 'tidak', 'akal']",Negatif
+386,"['memang', 'kuota', 'mahasiswa', 'bidikmisi', 'fk', 'ptnbh', 'kriteria', 'miskin', 'tidak', 'golong', 'miskin', 'tidak', 'kuat', 'bayar', 'ratus', 'biaya', 'kuliah', 'fk', 'ukt', 'naik']",Negatif
+387,"['risiko', 'ganti', 'status', 'ptnbh', 'ukt', 'naik', 'uang', 'anggar', 'lagipula', 'mahasiswa', 'protes', 'gelintir', 'bnyak', 'sosial', 'mahasiswa', 'geram', 'tolak', 'aksi', 'serta', 'tidak', 'angkat', 'pandemi']",Negatif
+388,"['tidak', 'alokasi', 'ptn', 'ptn', 'institusi', 'kumpul', 'ptnbh', 'ukt', 'naik', 'monetisasi', 'ptn']",Negatif
+389,"['tidak', 'ptnbh', 'sedih']",Negatif
+390,"['erti', 'ptnbh', 'operasional', 'inovasi', 'terima', 'kasih']",Positif
+391,"['ptnbh', 'sebut', 'kemarin', 'ptn', 'saing']",Positif
+392,"['jelas', 'ptnbh', 'ptn', 'bagus', 'inovasi']",Positif
+393,"['semangat', 'kreativitas', 'inovasi', 'dharma', 'guru', 'unggul', 'ptnbh']",Positif
+394,"['bangun', 'baik', 'status', 'ptnbh']",Positif
+395,"['ptnbh', 'sebal', 'geram']",Negatif
+396,"['ptnbh', 'kuliah', 'mahal', 'mahasiswa']",Negatif
+397,"['dosen', 'ptn', 'ptnbh', 'remunerasi', 'rutin', 'bayar', 'rapel', 'sulit', 'tranparasi', 'kerja', 'dosen', 'dosen']",Negatif
+398,"['ukt', 'status', 'ptnbh', 'mahal']",Negatif
+399,"['dirjen', 'diktiristek', 'ptnbh', 'kelas', 'bagus']",Positif
+400,"['ptnbh', 'ketidakmampunya', 'manfaat', 'ukt', 'alternatif', 'ukt', 'mahasiswa', 'naik']",Negatif
+401,"['kejut', 'efek', 'ptnbh', 'mahasiswa', 'susah', 'sulit']",Negatif
+402,"['butuh', 'status', 'ptnbh', 'boleh', 'inovasi', 'jalan', 'tinggi', 'calon', 'mahasiswa', 'brawija', 'kombinasi', 'pas']",Positif
+403,"['status', 'ptnbh', 'mandiri', 'tambah', 'kuota', 'snmptn', 'sbmptn', 'pangkas', 'habis', 'habis', 'monetisasi', 'ukt', 'naik', 'tidak', 'habis', 'pikir']",Negatif
+404,"['mulut', 'kotor', 'status', 'ptnbh', 'atur', 'sulit']",Negatif
+405,"['menristek', 'kucur', 'hibah', 'teliti', 'ptnbh', 'saing', 'kelas']",Positif
+406,"['kemristek', 'kucur', 'rp', 'miliar', 'hibah', 'riset', 'ptnbh', 'saing', 'kelas']",Positif
+407,"['ptnbh', 'inovasi', 'bagus', 'ptn', 'sejahtera']",Positif
+408,"['dekat', 'hotel', 'kuliah', 'biaya', 'keluar', 'mahal', 'status', 'ptnbh']",Negatif
+409,"['status', 'ptnbh', 'kedok', 'rekrut', 'kaum', 'kaya', 'kuliah', 'universitas', 'ukt', 'mahal']",Negatif
+410,"['tidak', 'erti', 'maksud', 'kuliah', 'ptn', 'sulit', 'status', 'ptnbh', 'terap', 'mandiri', 'ukt', 'mahal', 'naik']",Negatif
+411,"['prinsip', 'ptnbh', 'ukt', 'naik', 'korupsi', 'tidak', 'bayang', 'mandiri', 'mandiri']",Negatif
+412,"['ptnbh', 'keren']",Positif
+413,"['ptnbh', 'bagus', 'swasta', 'tidak', 'fokus']",Positif
+414,"['ptn', 'ptnbh', 'boleh', 'saing', 'bijak', 'mahasiswa', 'mandiri']",Positif
+415,"['ptnbh', 'keren']",Positif
+416,"['tren', 'lulus', 'kuliah', 'dokter', 'lanjut', 'saing', 'doktor', 'spesialis']",Positif
+417,"['demo', 'angkat', 'naik', 'ukt', 'ptnbh', 'retas', 'situs', 'web', 'mahasiswa']",Negatif
+418,"['ub', 'tidak', 'nahu', 'tuju', 'ptnbh', 'rencana', 'selesai', 'rancang', 'semangat', 'ub']",Positif
+419,"['ptnbh', 'investor']",Positif
